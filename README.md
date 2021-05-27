@@ -1,9 +1,13 @@
 ### Hi there 👋
 
 I am currently studying in first year at Jecrc University, Jaipur
+
 I am a c programmer and a pythoneer.
-I am keen to learn about AI and Ml, Mixed Reality and Cloud Computing
+
+I am keen to learn about AI and Ml, Mixed Reality and Cloud Computing.
+
 Fun Fact:- Also learning Logo designing 😄⚡
+
 Reach me:- www.linkedin.com/in/milind-middha
 <!--
 **MilindMiddha09/MilindMiddha09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
