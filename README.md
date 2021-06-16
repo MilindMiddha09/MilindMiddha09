@@ -6,7 +6,9 @@ I am a c programmer and a pythoneer.
 
 I am keen to learn about AI and Ml, Mixed Reality and Cloud Computing.
 
-Fun Fact:- Also learning Logo designing 😄⚡
+Love learning new skills.
+
+Currently working on tkinter and database in python.
 
 Reach me:- www.linkedin.com/in/milind-middha
 <!--
