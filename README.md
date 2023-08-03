@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- My name is Milind Middha.
+- I am Fourth Year Student at JECRC University, Jaipur.
+- I'm currently looking for entry level opportunities in Technology Field where I can contribute to the organization with my skills and my learnings.
+- 📫 How to reach me: www.linkedin.com/in/milind-middha 
 <!--
 **MilindMiddha09/MilindMiddha09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
